@@ -1,0 +1,14 @@
+# Hosts a URL in this repository may point at, one per line. A URL whose
+# host is not here fails scripts/check-skills. Skills are served to every
+# tenant's agents, so add a host only for public, durable documentation.
+github.com
+go.dev
+pkg.go.dev
+docs.anthropic.com
+code.claude.com
+claude.dev
+# already linked from LICENSE
+www.apache.org
+# local examples in commands (a server the reader runs themselves)
+localhost
+127.0.0.1
